@@ -102,3 +102,4 @@ Some comments in the source code are personal notes and therefore might not seem
 * [Heroku](https://www.heroku.com/)
 * [Cloud9](https://aws.amazon.com/cloud9/?origin=c9io)
 
+#### [MIT](./LICENSE)
